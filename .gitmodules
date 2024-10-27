@@ -1,36 +1,36 @@
 [submodule "amf"]
 	path = NFs/amf
-	url = https://github.com/free5gc/amf.git
+	url = https://github.com/oieosamir/amf.git
 [submodule "ausf"]
 	path = NFs/ausf
-	url = https://github.com/free5gc/ausf.git
+	url = https://github.com/oieosamir/ausf.git
 [submodule "n3iwf"]
 	path = NFs/n3iwf
-	url = https://github.com/free5gc/n3iwf.git
+	url = https://github.com/oieosamir/n3iwf.git
 [submodule "nrf"]
 	path = NFs/nrf
-	url = https://github.com/free5gc/nrf.git
+	url = https://github.com/oieosamir/nrf.git
 [submodule "nssf"]
 	path = NFs/nssf
-	url = https://github.com/free5gc/nssf.git
+	url = https://github.com/oieosamir/nssf.git
 [submodule "pcf"]
 	path = NFs/pcf
-	url = https://github.com/free5gc/pcf.git
+	url = https://github.com/oieosamir/pcf.git
 [submodule "smf"]
 	path = NFs/smf
-	url = https://github.com/free5gc/smf.git
+	url = https://github.com/oieosamir/smf.git
 [submodule "udm"]
 	path = NFs/udm
-	url = https://github.com/free5gc/udm.git
+	url = https://github.com/oieosamir/udm.git
 [submodule "udr"]
 	path = NFs/udr
-	url = https://github.com/free5gc/udr.git
+	url = https://github.com/oieosamir/udr.git
 [submodule "upf"]
 	path = NFs/upf
-	url = https://github.com/free5gc/go-upf.git
+	url = https://github.com/oieosamir/go-upf.git
 [submodule "webconsole"]
 	path = webconsole
-	url = https://github.com/free5gc/webconsole.git
+	url = https://github.com/oieosamir/webconsole.git
 [submodule "chf"]
 	path = NFs/chf
-	url = https://github.com/free5gc/chf.git
+	url = https://github.com/oieosamir/chf.git
