@@ -34,3 +34,6 @@
 [submodule "chf"]
 	path = NFs/chf
 	url = https://github.com/oieosamir/chf.git
+[submodule "NFs/pcf"]
+	path = NFs/pcf
+	url = https://github.com/oieosamir/pcf.git
