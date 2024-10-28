@@ -37,3 +37,12 @@
 [submodule "NFs/pcf"]
 	path = NFs/pcf
 	url = https://github.com/oieosamir/pcf.git
+[submodule "NFs/amf"]
+	path = NFs/amf
+	url = https://github.com/oieosamir/amf.git
+[submodule "NFs/smf"]
+	path = NFs/smf
+	url = https://github.com/oieosamir/smf.git
+[submodule "NFs/nssf"]
+	path = NFs/nssf
+	url = https://github.com/oieosamir/nssf.git
